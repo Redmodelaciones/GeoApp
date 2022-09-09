@@ -1,0 +1,202 @@
+@import url(http://fonts.googleapis.com/css?family=Raleway);
+#main{
+   
+  background-image: url("https://storage.googleapis.com/gweb-cloudblog-publish/images/Screen_Shot_2021-09-13_at_1.25.09_PM.max-1800x1800.png");
+
+   background-repeat: no-repeat;
+    width:1260px;
+    margin:10px auto;
+    font-family:raleway;
+}
+span{
+    color:red;
+}
+
+hr{
+    border:0;
+    border-bottom:1px solid #ccc;
+    margin: 10px -40px;
+    margin-bottom: 30px;
+}
+select{
+    width:99.5%;
+    padding: 10px;
+    margin-top: 8px;
+    border: 1px solid #ccc;
+    padding-left: 5px;
+    font-size: 36px;
+    font-family:raleway;
+}
+#container{
+    width: 90%;
+    float: left;
+    border-radius: 10px;
+    font-family:raleway;
+    border: 2px solid #ccc;
+    padding: 10px 40px 25px;
+    margin-top: 20px;
+    margin-left: 25%;
+}
+input[type=submit]{
+    width: 100%;
+    background-color:#FFBC00;
+    color: white;
+    border: 2px solid #FFCB00;
+    padding: 10px;
+    font-size:30px;
+    cursor:pointer;
+    border-radius: 5px;
+}
+#pizza{
+    width: 750px;
+    height: 325px;
+    margin-left: 46px;
+    margin-top: -29px;
+}
+input[type=checkbox] {
+    display:none;
+
+}
+#chk{
+    float: left;
+    margin-right: 10px;
+}
+input.chk1 + label.chk1{
+    background: url(https://electricistas.cl/wp-content/uploads/2019/10/Cableado3.jpg no-repeat;
+    box-shadow: rgb(153, 163, 173) 0px 5px 17px 1px, rgb(238, 238, 238) 0px 0px 40px;
+    background-size: 100px 100px;
+    height: 100px;
+    width: 100px;
+    display:inline-block;
+    padding: 0 0 0 0px;
+    cursor:pointer;
+    transition: all .2s ease-in-out;
+}
+input.chk1 + label.chk1:hover{
+    transform: scale(1.1);
+}
+input.chk1:checked + label.chk1{
+    background: url(../images/right.png) no-repeat;
+    background-size: 100px 100px;
+    height: 100px;
+    width: 100px;
+    display:inline-block;
+    padding: 0 0 0 0px;
+}
+input.chk2 + label.chk2{
+    background: url(https://cdn.homeguide.com/assets/images/bg/thumbs/drywall-installation-and-hanging.jpg) no-repeat;
+    box-shadow: rgb(153, 163, 173) 0px 5px 17px 1px, rgb(238, 238, 238) 0px 0px 40px;
+    background-size: 100px 100px;
+    height: 100px;
+    width: 100px;
+    display:inline-block;
+    padding: 0 0 0 0px;
+    cursor:pointer;
+    transition: all .2s ease-in-out;
+}
+input.chk2 + label.chk2:hover{
+    transform: scale(1.1);  
+}
+input.chk2:checked + label.chk2{
+    background: url(../images/right.png) no-repeat;
+    background-size: 100px 100px;
+    height: 100px;
+    width: 100px;
+    display:inline-block;
+    padding: 0 0 0 0px;
+}
+
+input.chk3 + label.chk3{
+    background: url(https://static.wixstatic.com/media/e69b7f_e3d88054719e4f5fb6680c0232b6ed8d~mv2.jpg/v1/fill/w_312,h_272,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/e69b7f_e3d88054719e4f5fb6680c0232b6ed8d~mv2.jpg) no-repeat;
+    box-shadow: rgb(153, 163, 173) 0px 5px 17px 1px, rgb(238, 238, 238) 0px 0px 40px;
+    background-size: 100px 100px;
+    height: 100px;
+    width: 100px;
+    display:inline-block;
+    padding: 0 0 0 0px;
+    cursor:pointer;
+    transition: all .2s ease-in-out;
+}
+input.chk3 + label.chk3:hover{
+    transform: scale(1.1);
+}
+input.chk3:checked + label.chk3{
+    background: url(../images/right.png) no-repeat;
+    background-size: 100px 100px;
+    height: 100px;
+    width: 100px;
+    display:inline-block;
+    padding: 0 0 0 0px;
+}
+
+input.chk4 + label.chk4{
+    background: url(https://st2.depositphotos.com/1959135/7883/i/450/depositphotos_78838330-stock-photo-painter.jpg) no-repeat;
+    box-shadow: rgb(153, 163, 173) 0px 5px 17px 1px, rgb(238, 238, 238) 0px 0px 40px;
+    background-size: 100px 100px;
+    height: 100px;
+    width: 100px;
+    display:inline-block;
+    padding: 0 0 0 0px;
+    cursor:pointer;
+    transition: all .2s ease-in-out;
+}
+input.chk4 + label.chk4:hover{
+    transform: scale(1.1);
+}
+input.chk4:checked + label.chk4{
+
+    background: url(../images/right.png) no-repeat;
+    background-size: 100px 100px;
+    height: 100px;
+    width: 100px;
+    display:inline-block;
+    padding: 0 0 0 0px;
+}
+
+
+input.chk5 + label.chk5{
+    background: url(https://electricistas.cl/wp-content/uploads/2019/10/Cableado3.jpg) no-repeat;
+    box-shadow: rgb(153, 163, 173) 0px 5px 17px 1px, rgb(238, 238, 238) 0px 0px 40px;
+    background-size: 100px 100px;
+    height: 100px;
+    width: 100px;
+    display:inline-block;
+    padding: 0 0 0 0px;
+    cursor:pointer;
+    transition: all .2s ease-in-out;
+}
+
+input.chk5 + label.chk5:hover
+{
+    transform: scale(1.1);
+}
+input.chk5:checked + label.chk5{
+    background: url(../images/right.png) no-repeat;
+    background-size: 100px 100px;
+    height: 100px;
+    width: 100px;
+    display:inline-block;
+    padding: 0 0 0 0px;
+}
+p#total{
+    margin-top: 195px;
+    margin-bottom: 23px;
+    font-size: 38px;
+    font-weight: 800;
+    color: rgb(18, 136, 46);
+
+}
+img#pizza-success{
+    margin-left: 75px;
+}
+a#backTopizza{
+    width: 100%;
+    background-color: #FFBC00;
+    color: white;
+    border: 2px solid #FFCB00;
+    padding: 10px 46px;
+    font-size: 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    text-decoration: none;
+}

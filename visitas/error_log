@@ -1,0 +1,10 @@
+[05-May-2022 01:13:26 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/redmodelaciones/public_html/visitas/clases/database.php on line 18
+[05-May-2022 01:13:26 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/redmodelaciones/public_html/visitas/clases/database.php on line 19
+[05-May-2022 01:13:26 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/redmodelaciones/public_html/visitas/clases/orders.php on line 38
+[05-May-2022 01:13:26 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/redmodelaciones/public_html/visitas/clases/orders.php on line 20
+[05-May-2022 01:26:44 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/redmodelaciones/public_html/visitas/clases/database.php on line 18
+[05-May-2022 01:26:44 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/redmodelaciones/public_html/visitas/clases/database.php on line 19
+[05-May-2022 01:26:44 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/redmodelaciones/public_html/visitas/clases/orders.php on line 38
+[05-May-2022 01:26:44 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/redmodelaciones/public_html/visitas/clases/orders.php on line 20
+[05-May-2022 02:00:10 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/redmodelaciones/public_html/visitas/ajax.php on line 84
+[05-May-2022 02:00:25 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/redmodelaciones/public_html/visitas/ajax.php on line 84
